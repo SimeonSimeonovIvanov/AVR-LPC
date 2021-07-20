@@ -2,7 +2,6 @@
 
 Ladder IDE, Win32 API:<br>
 https://photos.app.goo.gl/ECsNng8fbLdXbFrD6<br>
-https://drive.google.com/drive/folders/14_5qRgHAK6osaErqpiXjvSnwms06OQS6?usp=sharing<br>
 
 **IDE v6**
 ![Screen Shot](https://raw.githubusercontent.com/SimeonSimeonovIvanov/AVR-LPC/master/IDE/Windows/v6/ARM_PLC_IDE_V6_4.png)<br>
