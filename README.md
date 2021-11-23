@@ -36,10 +36,10 @@ ATmega128 + 64KB SRAM; Embedded JTAG ( isolated ); 10 DI ( isolated ); 12 DO ( i
 
 ![Screen Shot](https://lh3.googleusercontent.com/MFSm0rBE19Bkr6n2bQHMvwQDbrM88FVj6mi0oa1zPS12Zd1XVF8ZQhruDUSjj5ge2i3OTbsoyuJ5pJxQHAq7EGBXzrQ4npnA8TN-FYfQfRKF62vvIBu4lyrC2G8nLSsmaurKJ1AL63Wg1E1u6Kg3UWoYp94jPsGx7les2hHFN3h3157JmJn5emWt22zctwKuoiE0V9xlOegWnj1ZXh1caGQrHgmIB71cJP5h5bv6GbUMtQOyog8yz-kyPxy6S1MSCEX3xZZd2DP3gMVxeqpYgEInoQCW46HcGxgobg6J1JtNPG9Mr0FF1X2HbV9_R4C18u7d79Yfyb3AA3Et6dBWuwuHb6t0_V642tU-ff1alBq7FMpWoHSRmcBQUOWKGdH6yLo9GPd5a6_MH5jhhh1k1tBZsirvQleJ-DsP7VeRJrk1xcb6bAeKfSAkZEBqKm1ocxiBcHBjITTk1qyKYHBStECvgf2gY_nwudwcKR1mjJkGn3jowyLHPw2lpwmPAaV01omhRaxvsUOJZVKyXMBjsAh7KeoQ96FOYFMiptYe5jJ_jfvoDCd9T5MqHaiGrkpl_iI-xwXtU2jDASB8Gn-R2UnQ2w_Rtigq0nLZ0SZAssacPhLRZoJIKJGVcrtYlD7ufrOkX--KG2rIyONl5E1QoSHCeUc5887MFwnXQw65MT8F-75f9HV4q8AauVMvqUo2ONeTQtFoZeSWpo4YIw=w1560-h878-no)<br>
 
-5) v.0.0.3: https://goo.gl/photos/ECHeer7ifiq2STHZ8 - Automatic Fish Feeder With PLC ( old PLC board )
-https://www.youtube.com/watch?v=zcFjG9XD-4E&list=PLE616v1yP136VSTElJPbgqLRKw9dhneZ0
-
-6) v.0.0.5: https://goo.gl/photos/QCfDXFoU9WnBnyi77
+5) v.0.0.5: https://goo.gl/photos/QCfDXFoU9WnBnyi77
 ATxmega128; 10 DI ( isolated ); 12 DO ( isolated ); 7 AI ( not isolated ); 2 AO ( not isolated )
 
 ![Screen Shot](https://lh3.googleusercontent.com/CrdKOV2Exipbm48BkSPXY6QQhLZtKpu2Nv74_5UNym-NVNAPvjKg5PgMn0AcWso0ZyiwsN57_bQ84GkdWwb7Ry0Kp0wBErN_FqKzjVGy-RkI7oBeXEOX3lbk3L_sag4jpUtL6XL_7z4-2A9JB4nJ5N8eDOMvSsk_vyZd-QJAPM5tTXT8s0LB6l4LfTdwNbY4EcXigg_OVyJis-DMLxeYNSsxG71GUVcQLt-kU4s7OCiboMgQa-1HW34-17OXkidpmwVVyQGjMnnico8W84CT-oo5ifHH2OV12lPdnzk2QDA6Ba1MxgiPPNiL1AI4Ddw0ljuSeHRd1PAAe2h5Cw0Efa_bCrpdjatL50HknVmisk_Wq6wLsi8mJ-jFOiaZLpNb5acmandOS_44eTYfF3-8xoIYWwwaDky8cjSWrsGdJf1P9RwySioCeaTY87fkwPZVjsMt1DcwxTHguXf6UCBtERuYttkovSb-Ckyd_fub_5rKGNKd0IgqTBM0CnrZewAAi1zjdYNrlUwyCQrIC86EkA8U6nLzsmn01w6f9noMxi2UR4sf2xdNYlnZcsSEp5dKILmzpsBXSmpW_2QIB7F6HR-KGu1ZCRFI4cNlldwq2drFFrrZwLv2LV2JxLXRwX_oVj0be-cMNpRJQaFIlBKRKDWSeZE7CKjhLEl93wqukypxnhAkh95ftAy5ptpu-THbBEzlBj6zKCZNJKpOcA=w800-h600-no)<br>
+
+6) v.0.0.3: https://goo.gl/photos/ECHeer7ifiq2STHZ8 - Automatic Fish Feeder With PLC ( old PLC board )
+https://www.youtube.com/watch?v=zcFjG9XD-4E&list=PLE616v1yP136VSTElJPbgqLRKw9dhneZ0
