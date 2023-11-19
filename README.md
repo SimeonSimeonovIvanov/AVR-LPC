@@ -13,6 +13,7 @@ DOS IDE:<br>
 ![Screen Shot](https://raw.githubusercontent.com/SimeonSimeonovIvanov/DOS-Window-Manager/master/LD_EDIT.jpg)<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
+Electrical Panel: https://photos.app.goo.gl/Vyq1tTFqbRWLNgmy7
 
 Hardware:
 
