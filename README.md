@@ -1,4 +1,4 @@
-# AVR-LPC
+# myPLC
 
 Ladder IDE, Win32 API:<br>
 https://photos.app.goo.gl/ECsNng8fbLdXbFrD6<br>
@@ -13,9 +13,9 @@ DOS IDE:<br>
 ![Screen Shot](https://raw.githubusercontent.com/SimeonSimeonovIvanov/DOS-Window-Manager/master/LD_EDIT.jpg)<br>
 
 --------------------------------------------------------------------------------------------------------------------------------
-Electrical Panel: https://photos.app.goo.gl/Vyq1tTFqbRWLNgmy7
+**Hardware:**
 
-Hardware:
+Electrical Panel: https://photos.app.goo.gl/Vyq1tTFqbRWLNgmy7
 
 1) ARM-PLC v.0.0.0: https://photos.app.goo.gl/mvdGAAyFvAadtSrAA<br>
 STM32F446; 14 DI; 1 ENC (2xDI); 16 DO;  4 AI; 2 AO; 1 CAN ( isolated ); 1 RS485 ( isolated ); HMI: LED and SPI expander
